@@ -10,7 +10,7 @@ public class Main {
         int b = s.nextInt();
 
         s.close();
-
+        
         System.out.println(a);
         System.out.println(b);
         
