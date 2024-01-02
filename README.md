@@ -1,7 +1,7 @@
-365 Days of Code 2024 FAQ
+365 Days of Code 2024 
 Q. What is the Challenge?
 
-Introducing 365 Days Of Code with Scaler 🤩
+Introducing 365 Days Of Code with Scaler Discord🤩
 
 Starting from Jan 2, 2024, you can participate in 365 Days of Code with Scaler and code every day to win amazing rewards!
 
