@@ -13,8 +13,7 @@ public class Main {
             }
         }
 
-        int[] res = new int[m];
-
+        int[] res = new int[m]; 
         for (int j = 0; j < m; j++) {
             for (int i = 0; i < n; i++) {
                 res[j] += arr[i][j];
