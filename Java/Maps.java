@@ -9,7 +9,7 @@ public class Main {
             String name = sc.next();
             int marks = sc.nextInt();
             map.put(name, marks);
-        }
+        } 
         int q = sc.nextInt();
         for (int i = 0; i < q; i++) {
             String query = sc.next();
