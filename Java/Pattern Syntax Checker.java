@@ -8,7 +8,7 @@ public class Main {
         int testCases = Integer.parseInt(scanner.nextLine());
 
         for (int i = 0; i < testCases; i++) {
-            String pattern = scanner.nextLine();
+            String pattern = scanner.nextLine(); 
             try {
                 Pattern.compile(pattern);
                 System.out.println("Valid");
