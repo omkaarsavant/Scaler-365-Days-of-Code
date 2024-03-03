@@ -6,7 +6,7 @@ public class Solution {
 
         if (m + n != len) {
             return 0;
-        }
+        } 
 
         boolean[][] dp = new boolean[m + 1][n + 1];
         dp[0][0] = true;
